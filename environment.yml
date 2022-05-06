@@ -1,0 +1,12 @@
+name: personal_env
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pytest-selenium
+  - selenium
+  - spyder
+  - libopencv
+  - opencv
+  - py-opencv
+prefix: C:\Users\Begear\anaconda3\envs\personal_env
